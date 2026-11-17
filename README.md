@@ -27,7 +27,7 @@ Browser-tested onboarding, steps, nutrition portion calculations, sleep across m
 
 Source repository: https://github.com/gielvelden2-code/HYRO
 
-To host on GitHub Pages, publish the contents of `dist/`. The included Pages workflow deploys this folder when Pages is configured to use GitHub Actions.
+To host on GitHub Pages, publish the contents of `dist/`. The optional manual Pages workflow deploys this folder after Pages is configured to use GitHub Actions. Run it from the Actions tab when needed.
 
 ## Version 1.1
 
