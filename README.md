@@ -1,2 +1,2 @@
-# HYRO
+# VYRO
 fitness app
